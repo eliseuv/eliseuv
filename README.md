@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi there, I'm Eliseu
 
-<!--
-**eliseuv/eliseuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computational Physics | Data Science | Software Engineering
 
-Here are some ideas to get you started:
+I stand at the intersection of **Physics** and **Computer Science**.
+My background is in **Statistical Computational Physics** with a focus on **Complex Systems**, **Stochastic Optimization** and **Random Matrix Theory**.
+My interests extend from **Data Science** to **Software Engineering** with projects in **Time Series Analysis**, **Reinforcement Learning** and **Full-Stack Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages**: ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+
+**Libraries**: tokio, ndarray, serde, faer-rs, NumPy, SciPy, Pandas, scikit-learn, matplotlib, PyTorch, Tensorflow, DataFrames.jl, Plots.jl, Makie.jl
+
+**Tools**: Linux, Nix/NixOS, Docker, SQL
+
+---
+
+## 🚀 Featured Projects
+
+### ⚛️ Computational Physics
+
+*Projects applying physical laws and rigorous math to solve complex problems.*
+
+* **[tsp-sa](https://github.com/eliseuv/tsp-sa)**
+    > **High-performance Simulated Annealing in C++**
+    > Implementation of stochastic optimization algorithms to find global minima in combinatorial problems.
+* **[artificial-systems](https://github.com/eliseuv/artificial-systems)*
+    > **High-performance Complex Systems Simulation in Rust**
+    > Modeling artificial environments to study emergent behavior and system dynamics.
+* **[ts-cov-matrix](https://github.com/eliseuv/ts-cov-matrix)**
+    > **Time Series Random Matrix Analysis**
+    > Tools for analyzing correlations in time-series data, drawing on concepts from Random Matrix Theory.
+
+### 🧠 Sternhalma Suite: Full Stack Game & AI
+
+*A complete implementation of the Sternhalma (Chinese Checkers) game, featuring a backend server, web frontend, and an autonomous playing agent.*
+
+* **[Game Server](https://github.com/eliseuv/sternhalma-server)**: The backend logic handling game state and multiplayer connections.
+* **[Web Interface](https://github.com/eliseuv/sternhalma-web)**: The interactive frontend interface for the game.
+* **[RL Agent](https://github.com/eliseuv/sterhalma-agent)**: An AI agent trained to play the game using Reinforcement Learning.
+
+### 🔧 Systems
+
+* **[json-parser](https://github.com/eliseuv/json-parser)**
+    > **Simple JSON Parser.**
+    > A from-scratch implementation of a JSON parser, built to better understand parser combinators.
+
+---
+
+## 🧩 Competitive Programming
+
+I actively maintain several repositories dedicated to algorithmic mastery and mathematical puzzles.
+
+| Platform | Repository | Focus |
+| :--- | :--- | :--- |
+| **LeetCode** | **[leetcode](https://github.com/eliseuv/leetcode)** | Solutions for DSA (Data Structures & Algorithms) interview questions. |
+| **Project Euler** | **[project-euler](https://github.com/eliseuv/project-euler)** | Solving complex mathematical problems using programming. |
+| **HackerRank** | **[hackerrank](https://github.com/eliseuv/hackerrank)** | Logic and SQL practice problems. |
+| **Advent of Code** | **[aoc-yyyy](https://github.com/eliseuv?tab=repositories&q=aoc-)** | Annual December coding challenges solved in Rust, Haskell, and Python. |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliseuv&show_icons=true&theme=radical&count_private=true" alt="Eliseu's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseuv&layout=compact&theme=radical" alt="Top Languages" />
+</div>
