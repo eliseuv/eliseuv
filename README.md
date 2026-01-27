@@ -27,7 +27,7 @@ My interests extend from **Data Science** to **Software Engineering** with proje
 * **[tsp-sa](https://github.com/eliseuv/tsp-sa)**
     > **High-performance Simulated Annealing in C++**
     > Implementation of stochastic optimization algorithms to find global minima in combinatorial problems.
-* **[artificial-systems](https://github.com/eliseuv/artificial-systems)*
+* **[artificial-systems](https://github.com/eliseuv/artificial-systems)**
     > **High-performance Complex Systems Simulation in Rust**
     > Modeling artificial environments to study emergent behavior and system dynamics.
 * **[ts-cov-matrix](https://github.com/eliseuv/ts-cov-matrix)**
