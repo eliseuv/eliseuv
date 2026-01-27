@@ -50,6 +50,9 @@ My interests extend from **Data Science** to **Software Engineering** with proje
 * **[json-parser](https://github.com/eliseuv/json-parser)** ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
     > **Simple JSON Parser.**
     > A from-scratch implementation of a JSON parser, built to better understand parser combinators.
+* **[web-watcher](https://github.com/eliseuv/web-watcher)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+    > **Website Monitoring Tool**
+    > Simple tool to monitor a list of websites for changes.
 
 ---
 
