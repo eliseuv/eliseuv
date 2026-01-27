@@ -24,13 +24,13 @@ My interests extend from **Data Science** to **Software Engineering** with proje
 
 *Projects applying physical laws and rigorous math to solve complex problems.*
 
-* **[tsp-sa](https://github.com/eliseuv/tsp-sa)**
+* **[tsp-sa](https://github.com/eliseuv/tsp-sa)** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
     > **High-performance Simulated Annealing in C++**
     > Implementation of stochastic optimization algorithms to find global minima in combinatorial problems.
-* **[artificial-systems](https://github.com/eliseuv/artificial-systems)**
+* **[artificial-systems](https://github.com/eliseuv/artificial-systems)** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
     > **High-performance Complex Systems Simulation in Rust**
     > Modeling artificial environments to study emergent behavior and system dynamics.
-* **[ts-cov-matrix](https://github.com/eliseuv/ts-cov-matrix)**
+* **[ts-cov-matrix](https://github.com/eliseuv/ts-cov-matrix)** ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
     > **Time Series Random Matrix Analysis**
     > Tools for analyzing correlations in time-series data, drawing on concepts from Random Matrix Theory.
 
@@ -38,13 +38,16 @@ My interests extend from **Data Science** to **Software Engineering** with proje
 
 *A complete implementation of the Sternhalma (Chinese Checkers) game, featuring a backend server, web frontend, and an autonomous playing agent.*
 
-* **[Game Server](https://github.com/eliseuv/sternhalma-server)**: The backend logic handling game state and multiplayer connections.
-* **[Web Interface](https://github.com/eliseuv/sternhalma-web)**: The interactive frontend interface for the game.
-* **[RL Agent](https://github.com/eliseuv/sterhalma-agent)**: An AI agent trained to play the game using Reinforcement Learning.
+* **[Game Server](https://github.com/eliseuv/sternhalma-server)** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+    > The backend logic handling game state and multiplayer connections.
+* **[Web Interface](https://github.com/eliseuv/sternhalma-web)** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+    > The interactive frontend interface for the game.
+* **[RL Agent](https://github.com/eliseuv/sterhalma-agent)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+    > An AI agent trained to play the game using Reinforcement Learning.
 
 ### 🔧 Systems
 
-* **[json-parser](https://github.com/eliseuv/json-parser)**
+* **[json-parser](https://github.com/eliseuv/json-parser)** ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
     > **Simple JSON Parser.**
     > A from-scratch implementation of a JSON parser, built to better understand parser combinators.
 
