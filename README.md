@@ -60,12 +60,12 @@ My interests extend from **Data Science** to **Software Engineering** with proje
 
 I actively maintain several repositories dedicated to algorithmic mastery and mathematical puzzles.
 
-| Platform | Repository | Focus |
-| :--- | :--- | :--- |
-| **LeetCode** | **[leetcode](https://github.com/eliseuv/leetcode)** | Solutions for DSA (Data Structures & Algorithms) interview questions. |
-| **Project Euler** | **[project-euler](https://github.com/eliseuv/project-euler)** | Solving complex mathematical problems using programming. |
-| **HackerRank** | **[hackerrank](https://github.com/eliseuv/hackerrank)** | Logic and SQL practice problems. |
-| **Advent of Code** | **[aoc-yyyy](https://github.com/eliseuv?tab=repositories&q=aoc-)** | Annual December coding challenges solved in Rust, Haskell, and Python. |
+| Platform | Repository | Focus | Language |
+| :--- | :--- | :--- | :--- |
+| **LeetCode** | **[leetcode](https://github.com/eliseuv/leetcode)** | Solutions for DSA (Data Structures & Algorithms) interview questions. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) |
+| **Project Euler** | **[project-euler](https://github.com/eliseuv/project-euler)** | Solving complex mathematical problems using programming. | ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white) |
+| **HackerRank** | **[hackerrank](https://github.com/eliseuv/hackerrank)** | Solving logic practice problems. | ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white) |
+| **Advent of Code** | **[aoc-yyyy](https://github.com/eliseuv?tab=repositories&q=aoc-)** | Annual December coding challenges solved in Rust, Haskell, and Python. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white) |
 
 ---
 
