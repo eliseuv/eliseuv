@@ -77,13 +77,3 @@ I actively maintain several repositories dedicated to algorithmic mastery and ma
 | **Project Euler** | **[project-euler](https://github.com/eliseuv/project-euler)** | Solving complex mathematical problems using programming. | ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white) |
 | **HackerRank** | **[hackerrank](https://github.com/eliseuv/hackerrank)** | Solving logic practice problems. | ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white) |
 | **Advent of Code** | **[aoc-yyyy](https://github.com/eliseuv?tab=repositories&q=aoc-)** | Annual December coding challenges solved in Rust, Haskell, and Python. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white) |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliseuv&show_icons=true&theme=radical&count_private=true" alt="Eliseu's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseuv&layout=compact&theme=radical" alt="Top Languages" />
-</div>
