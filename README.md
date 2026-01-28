@@ -24,7 +24,7 @@ My interests extend from **Data Science** to **Software Engineering** with proje
     > My dotfiles repository containing my personal configuration for multiple hosts.
 * **[Neovim](https://github.com/eliseuv/nvim)** ![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat&logo=neovim&logoColor=white)
     > My Neovim configuration using [LazyVim](https://github.com/LazyVim/LazyVim).
-* **[DOOM Emacs](https://github.com/eliseuv/doom-emacs)** ![Emacs](https://img.shields.io/badge/-Emacs-000000?style=flat&logo=emacs&logoColor=white)
+* **[DOOM Emacs](https://github.com/eliseuv/doom-emacs)** ![GNU Emacs](https://img.shields.io/badge/-GNU%20Emacs-000000?style=flat&logo=gnu-emacs&logoColor=white)
     > My [DOOM Emacs](https://github.com/emacs-doom/doom-emacs) configuration.
 
 ---
