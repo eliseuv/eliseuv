@@ -14,7 +14,7 @@ My interests extend from **Data Science** to **Software Engineering** with proje
 
 **Libraries**: tokio, ndarray, serde, faer-rs, NumPy, SciPy, Pandas, scikit-learn, matplotlib, PyTorch, Tensorflow, DataFrames.jl, Plots.jl, Makie.jl
 
-**Tools**: Linux, Nix/NixOS, Docker, SQL
+**Tools**: ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white) ![NixOS](https://img.shields.io/badge/-NixOS-000000?style=flat&logo=nixos&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
