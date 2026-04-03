@@ -8,6 +8,8 @@ I stand at the intersection of **Physics** and **Computer Science**.
 My background is in **Statistical Computational Physics** with a focus on **Complex Systems**, **Stochastic Optimization** and **Random Matrix Theory**.
 My interests extend from **Data Science** to **Software Engineering** with projects in **Time Series Analysis**, **Reinforcement Learning** and **Full-Stack Development**.
 
+I am currently a **Software Engineer** at **[Nelogica](https://www.nelogica.com.br/)** as part of the **Automation Systems** team.
+
 ---
 
 ## 🛠️ Tech Stack & Tools
