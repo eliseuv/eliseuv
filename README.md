@@ -1,24 +1,24 @@
 # Hi there, I'm Eliseu
 
-### Computational Physics | Data Science | Software Engineering
+### Software Engineer & Computational Scientist
 
-#### [Personal Website](https://eliseuv.github.io)
+#### [Personal Website](https://eliseuv.dev)
 
 I stand at the intersection of **Physics** and **Computer Science**.
 My background is in **Statistical Computational Physics** with a focus on **Complex Systems**, **Stochastic Optimization** and **Random Matrix Theory**.
 My interests extend from **Data Science** to **Software Engineering** with projects in **Time Series Analysis**, **Reinforcement Learning** and **Full-Stack Development**.
 
-I am currently a **Software Engineer** at **[Nelogica](https://www.nelogica.com.br/)** as part of the **Automation Systems** team.
+I am currently a **Software Engineer** at **[Nelogica](https://www.nelogica.com.br/)** as part of the **Automation Tools** team.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages**: ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-000000?style=flat&logo=julia&logoColor=white) ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=white)
+**Languages**: ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-000000?style=flat&logo=julia&logoColor=white) ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=white) ![Delphi](https://img.shields.io/badge/-Delphi-000000?style=flat&logo=delphi&logoColor=white)
 
-**Libraries**: ![tokio](https://img.shields.io/badge/-tokio-000000?style=flat&logo=tokio&logoColor=white) ![ndarray](https://img.shields.io/badge/-ndarray-000000?style=flat&logo=rust&logoColor=white) ![serde](https://img.shields.io/badge/-serde-000000?style=flat&logo=rust&logoColor=white) ![faer](https://img.shields.io/badge/-faer-000000?style=flat&logo=rust&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-000000?style=flat&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikitlearn-000000?style=flat&logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/-matplotlib-000000?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=white) ![DataFrames.jl](https://img.shields.io/badge/-DataFrames.jl-000000?style=flat&logo=julia&logoColor=white) ![Plots.jl](https://img.shields.io/badge/-Plots.jl-000000?style=flat&logo=julia&logoColor=white) ![Makie.jl](https://img.shields.io/badge/-Makie.jl-000000?style=flat&logo=julia&logoColor=white)
+**Libraries**: ![C++17](https://img.shields.io/badge/-C%2B%2B17-000000?style=flat&logo=c%2B%2B&logoColor=white) ![boost](https://img.shields.io/badge/-boost-000000?style=flat&logo=c%2B%2B&logoColor=white) ![tokio](https://img.shields.io/badge/-tokio-000000?style=flat&logo=tokio&logoColor=white) ![rayon](https://img.shields.io/badge/-rayon-000000?style=flat&logo=rust&logoColor=white) ![faer](https://img.shields.io/badge/-faer-000000?style=flat&logo=rust&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-000000?style=flat&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat&logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/-matplotlib-000000?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&logoColor=white) ![DataFrames.jl](https://img.shields.io/badge/-DataFrames.jl-000000?style=flat&logo=julia&logoColor=white) ![Plots.jl](https://img.shields.io/badge/-Plots.jl-000000?style=flat&logo=julia&logoColor=white) ![Makie.jl](https://img.shields.io/badge/-Makie.jl-000000?style=flat&logo=julia&logoColor=white) ![megaparsec](https://img.shields.io/badge/-megaparsec-000000?style=flat&logo=haskell&logoColor=white) ![ICS](https://img.shields.io/badge/-ICS-000000?style=flat) ![Horse](https://img.shields.io/badge/-Horse-000000?style=flat) ![ndarray](https://img.shields.io/badge/-ndarray-000000?style=flat&logo=rust&logoColor=white) ![serde](https://img.shields.io/badge/-serde-000000?style=flat&logo=rust&logoColor=white)
 
-**Tools**: ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white) ![NixOS](https://img.shields.io/badge/-NixOS-000000?style=flat&logo=nixos&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=white)
+**Tools**: ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white) ![DuckDB](https://img.shields.io/badge/-DuckDB-000000?style=flat&logo=duckdb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white) ![Nix](https://img.shields.io/badge/-Nix-000000?style=flat&logo=nixos&logoColor=white)
 
 ---
 
@@ -39,10 +39,10 @@ I am currently a **Software Engineer** at **[Nelogica](https://www.nelogica.com.
 
 *Projects applying physical laws and rigorous math to solve complex problems.*
 
-* **[tsp-sa](https://github.com/eliseuv/tsp-sa)** ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)
+* **[tsp-sa](https://github.com/eliseuv/tsp-sa)** ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)
     > **High-performance Simulated Annealing in C++**
     > Implementation of stochastic optimization algorithms to find global minima in combinatorial problems.
-* **[artificial-systems](https://github.com/eliseuv/artificial-systems)** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-000000?style=flat&logo=julia&logoColor=white)
+* **[artificial-systems](https://github.com/eliseuv/artificial-systems)** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
     > **High-performance Complex Systems Simulation in Rust**
     > Modeling artificial environments to study emergent behavior and system dynamics.
 * **[ts-cov-matrix](https://github.com/eliseuv/ts-cov-matrix)** ![Julia](https://img.shields.io/badge/-Julia-000000?style=flat&logo=julia&logoColor=white)
@@ -57,7 +57,7 @@ I am currently a **Software Engineer** at **[Nelogica](https://www.nelogica.com.
     > The backend logic handling game state and multiplayer connections.
 * **[Web Interface](https://github.com/eliseuv/sternhalma-web)** ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white)
     > The interactive frontend interface for the game.
-* **[RL Agent](https://github.com/eliseuv/sterhalma-agent)** ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)
+* **[RL Agent](https://github.com/eliseuv/sternhalma-agent)** ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)
     > An AI agent trained to play the game using Reinforcement Learning.
 
 ### 🔧 Systems
